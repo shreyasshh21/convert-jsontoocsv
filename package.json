@@ -1,0 +1,23 @@
+{
+  "name": "convert-jsontoocsv",
+  "version": "1.0.0",
+  "description": "this package converts json to csv ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyashh21/convert-jsontoocsv.git"
+  },
+  "keywords": [
+    "csv",
+    "json"
+  ],
+  "author": "shreyash",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shreyashh21/convert-jsontoocsv/issues"
+  },
+  "homepage": "https://github.com/shreyashh21/convert-jsontoocsv#readme"
+}
